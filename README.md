@@ -53,7 +53,7 @@
 ### 📊 My GitHub Stats
 > “The best way to learn is by building.” — Mandela 🚀
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MandelaInegbedion&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandela Inegbedion&show_icons=true&theme=radical" alt="stats" />
   <br/>
 <!--   <img src="https://streak-stats.demolab.com?user=MandelaInegbedion&theme=radical" alt="streak" /> -->
 </p>
