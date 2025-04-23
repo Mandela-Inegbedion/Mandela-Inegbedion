@@ -32,15 +32,19 @@
 
 ### ❤️ Let’s get connected:
 <p>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://x.com/Mandyy_Special?t=LnnyJ_bFwfxbcfyRPLt9Fg&s=08"/>
+  <a href="https://x.com/Mandyy_Special?t=LnnyJ_bFwfxbcfyRPLt9Fg&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourname" target="_blank">
-    <img src="https://www.linkedin.com/in/mandela-inegbedion-478bb5247/"/>
+  <a href="https://www.linkedin.com/in/mandela-inegbedion-478bb5247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://www.instagram.com/mandyy_special/profilecard/?igsh=MTBubjFwYzd5bXVzYw"/>
+  <a href="https://www.instagram.com/mandyy_special/profilecard/?igsh=MTBubjFwYzd5bXVzYw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="mandelainegbedion9@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -55,19 +59,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-- 📫 Email: mandelainegbedion@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/MandelaInegbedion](https://linkedin.com/in/MandelaInegbedion)  
-- 🐦 Twitter: [@MandelaCodes](https://twitter.com/MandelaCodes)
-
----
-
-### 📽️ YouTube (Optional)
-
-- 🔔 Subscribe to my channel: [My Channel](https://youtube.com/@yourchannel)
-
----
 
 
 
