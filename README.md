@@ -11,7 +11,8 @@
 
 - 🌱 I Learn Everyday
 - 🔭 I’m a Web Developer skilled in JavaScript, CSS and HTML 
-- 🧠 I’m constantly learning more about frontend performance.  
+- 🧠 I’m constantly learning more about frontend performance.
+- 🤔 I’m looking for help with Competitive Programming 
 - ⚡ Fun fact: I use most of my time making reasearch, watching videos and learning new things.  
 
 ---
@@ -54,7 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MandelaInegbedion&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=MandelaInegbedion&theme=radical" alt="streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=MandelaInegbedion&theme=radical" alt="streak" /> -->
 </p>
 
 ---
