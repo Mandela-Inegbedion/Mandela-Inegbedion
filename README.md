@@ -67,13 +67,9 @@
 ### 📊 GitHub Stats
 
 > “The best way to learn is by building — and breaking things.” — Mandela Inegbedion
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MandelaInegbedion&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=MandelaInegbedion&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandelaInegbedion&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandela-Inegbedion&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
