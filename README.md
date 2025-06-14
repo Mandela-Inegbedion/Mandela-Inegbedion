@@ -48,13 +48,13 @@
 ### 🌐 Let’s Get Connected
 
 <p>
-  <a href="https://x.com/Mandyy_Special?t=LnnyJ_bFwfxbcfyRPLt9Fg&s=08" target="_blank">
+  <a href="https://x.com/mandywebdev?s=21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mandela-inegbedion-478bb5247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/mandyy_special/profilecard/?igsh=MTBubjFwYzd5bXVzYw==" target="_blank">
+  <a href="https://www.instagram.com/mandywebdev/profilecard/?igsh=MTBubjFwYzd5bXVzYw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:mandelainegbedion9@gmail.com" target="_blank">
